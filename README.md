@@ -1,6 +1,6 @@
 # LexiNeo
 
-Topolexical Mapping of Neoantigens onto the Human Immune Landscape via Cross-Attention
+Topolexical Modeling of Epitope-Receptor Correspondence via Cross-Attention
 
 - **LexiNeoTCR**: Population-level CD4+ T cell repertoire-aware model
 - **LexiNeoBCR**: Population-level B cell repertoire-aware model
